@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SDGCFonseka
 - 👀 I’m interested in coding adventure
-- 🌱 I’m currently learning reactjs,php
+- 🌱 I’m currently learning reactjs,php,ajaX,JSON
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me 
 
